@@ -1,6 +1,6 @@
 # Stable Diffusion Based Criminal Face Generation Platform for Forensic Identification
 
-![UI](Documentation/assests/UI.png)
+![UI](Documentation/assests/UI.jpeg)
 ## Project Overview
 
 ### Project Idea
@@ -62,4 +62,4 @@ Join us in our mission to transform forensic identification and support law enfo
 ![Logo](Documentation/assests/logo_banner.jpg)
 
 
-![Award](Documentation/assests/Award.png)
+![Award](Documentation/assests/Award.jpeg)
